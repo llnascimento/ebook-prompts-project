@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="caminho/para/sua/imagem-do-ebook.png" width="500px" alt="Capa do eBook" />
-</p>
-
 # 📘 Projeto EBOOK - O Legado JS
 
 > **NOTA:** Este repositório foi desenvolvido como parte de um desafio prático da DIO. O objetivo foi criar um eBook completo com o auxílio de ferramentas de inteligência artificial, abordando os principais conceitos do JavaScript de forma prática, moderna e acessível.
